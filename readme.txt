@@ -1,4 +1,4 @@
-- Estadísticas: comentarios por recurso
+- Nuevo archivo config.php con datos de conexión BBDD
 
 
 
